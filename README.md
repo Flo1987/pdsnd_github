@@ -3,7 +3,7 @@ I like to work with you together.
 
 
 ### Date created
-This prject started at 1st August 2022.
+This project started at 1st August 2022.
 
 
 ### Project Title
