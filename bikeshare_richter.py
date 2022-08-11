@@ -33,7 +33,7 @@ def get_filters():
         month_list = ['january','february','march','april','may','june','all']
         month = str(input("\nWhich month would you like to analyse? \n'january','february','march','april','may','june' or 'all'\nYour input: ")).lower()
         if month == 'all':
-            print("\n --> Now you see the data for all month!")
+            print("\n --> Now you see the data for all month for data we have!")
             break
         elif month in month_list:
             print("\n --> Now you see the data for {}!".format(month.title()))
