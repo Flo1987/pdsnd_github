@@ -20,3 +20,7 @@ bikeshare_richter.py
 
 ### Credits
 no credits 
+
+###Software
+- Gitbash on Windows
+- Ultraedit for python
