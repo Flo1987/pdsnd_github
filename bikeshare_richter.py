@@ -56,7 +56,7 @@ def get_filters():
         else:
             print("\n --> {} is not valid!\nPlease try it once more. Look at the right writing".format(day))
 
-    print('-'*40)
+    print('-'*60)
     return city, month, day
 
 
